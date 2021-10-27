@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/batch_management/BuildConfig.java
+ com.example.batch_management.BuildConfig
+com/example/batch_management/MainActivity.java
+ com.example.batch_management.MainActivity
